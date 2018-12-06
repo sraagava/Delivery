@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="link_button">#42a7ff</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorPrimaryDark">#961C1F</color>
+    <color name="color1Accent">#FF4081</color>
+                              <color name="colorAccent">#961C1F</color>
+    <color name="red">#ff0008</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="yellow_bg">#f7fed0</color>
+    <color name="red_mangoo">#961C1F</color>
+
+
+</resources>
